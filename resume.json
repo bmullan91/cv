@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Brian Mullan",
+    "label": "Front-End Engineer",
+    "picture": "http://www.gravatar.com/avatar/818d6d5f28654c09ddec8c7763b1439a.png?s=200",
+    "email": "bmullan91@gmail.com",
+    "phone": "07592332282",
+    "website": "",
+    "summary": "A passionate developer, focused on improving the web. My processes and techniques are constantly evolving whilst working on open source projects, as well as keeping up to date with the latest trends and developments. I enjoy keeping fit and experimenting with new recipes as an avid cook.",
+    "location": {
+      "address": "16 Annadale Avenue",
+      "postalCode": "BT7 3JH",
+      "city": "Belfast",
+      "countryCode": "UK",
+      "region": "Northern Ireland"
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "bmullan91",
+        "url": "https://twitter.com/bmullan91"
+      },
+      {
+        "network": "github",
+        "username": "bmullan91",
+        "url": "https://github.com/bmullan91"
+      },
+      {
+        "network": "linkedin",
+        "username": "bmullan91",
+        "url": "https://linkedin.com/in/bmullan91"
+      },
+      {
+        "network": "instagram",
+        "username": "bmullan91",
+        "url":"http://instagram.com/bmullan91/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pace",
+      "position": "Graduate Software Engineer",
+      "website": "http://www.pace.com/global/",
+      "startDate": "June 2012",
+      "endDate": "Present",
+      "summary": "Working under several roles; placement, part-time and graduate engineer. I work primarily in JavaScript, developing set-top-box user interfaces as single page applications; circa 150k+ lines of code. Responsiveness of each user interface is critical, as the set-top-boxes are limited in processing power and memory. All possible steps are taken to optimise performance, such as; reducing DOM manipulations, reflows/repaints and blocking the event loop.",
+      "highlights": [
+        "Object-Orientated JavaScript",
+        "Framework / library development",
+        "Modular design and development",
+        "Performance benchmarking and optimisations",
+        "Automated testing",
+        "Remote debugging",
+        "Linux enviroment",
+        "HTML templating and sementics",
+        "CSS/LESS"
+      ]
+    },
+    {
+      "company": "Club 137",
+      "position": "Co-Founder",
+      "website": "http://club137.com/",
+      "startDate": "September 2011",
+      "endDate": "September 2013",
+      "summary": "A student club night; orignating from a house party held at 137 University Avenue. One of Belfasts most successful student nights.",
+      "highlights": [
+        "Thirteen events, nine sell outs",
+        "Four locations",
+        "Host to BBC's Radio-1 DJ, Danny Howard",
+        "Managing and hiring staff",
+        "Lighting and visual effects"
+      ]
+    },
+    {
+      "company": "SuperValu",
+      "position": "Part-Time Butcher/Deli Counter",
+      "website": "http://www.supervalu.co.uk",
+      "startDate": "May 2008",
+      "endDate": "June 2012",
+      "summary": "Working on the shop counter where interacting with customers and developing a good rapport was key.",
+      "highlights": [
+        "Working as a team",
+        "Training new staff memebers",
+        "Developed a strong work ethic"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Mentor",
+      "website": "http://www.coderdojobelfast.com/",
+      "startDate": "March 2013",
+      "endDate": "July 2013",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Teaching the basics of problem solving",
+        "Meeting the next generation of hackers",
+        "Fostering creativity and inquisitiveness"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Queens University Belfast",
+      "area": "Computer Science",
+      "studyType": "First Class Honours, including Professional Experience",
+      "startDate": "September 2010",
+      "endDate": "June 2014",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Loreto College Coleraine",
+      "area": "Grammer School",
+      "studyType": "Three A Levels (ABB), and ten GCSEs (A* - C)",
+      "startDate": "September 2003",
+      "endDate": "June 2010"
+    }
+  ],
+  "awards": [],
+  "skills": [
+    {
+      "name": "JavaScript / Node.js",
+      "level": "Advance",
+      "keywords": [
+        "Module design and development",
+        "Testing and automation",
+        "Rest API's",
+        "Browserify",
+        "Grunt / Gulp",
+        "PhantomJS",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Advance",
+      "keywords": [
+        "HTML(5)",
+        "CSS(3)",
+        "Responsive design",
+        "Single page applications"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Advance",
+      "keywords": [
+        "Git",
+        "Subversion"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Schema design",
+        "Mongoose (node ODM)"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": [
+        "Concurrency",
+        "Design Patterns"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": [
+        "WCF",
+        "SQL Server"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source Projects",
+      "keywords": [
+        "unicalc.io",
+        "pragmatic-rest",
+        "express-subdomain",
+        "evt-listener",
+        "evt-emitter"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available on request."
+    }
+  ]
+}
